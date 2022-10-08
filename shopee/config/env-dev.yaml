@@ -1,0 +1,14 @@
+mongo:
+  host: "10.110.99.1:21017"
+  database: "social_mining_test"
+  username: "social_mining_test"  
+  password: "S0cialM1ningTest"
+redis_options:
+  host: "10.110.99.1"
+  port: "6379"
+  username: "social_mining_dev"
+  password: "S0cialM1ningDev"
+  database: "1"
+bot:
+  telegram_bot_token: "5400025725:AAFvX5j28S_muMuJO7reqe_SLKRs5qsN1mI"
+  telegram_chanel: -645501447
